@@ -1,13 +1,14 @@
 {
-    "name": "metricsmine/monolog-fuelphp-php",
+    "name": "metricsmine/monolog-php",
     "description": "metricsmine integration for monolog. An abstract handler that sends messages to metricsmine",
     "keywords": ["metricsmine", "monolog", "logging", "error"],
     "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
-            "name": "metricsmine",
-            "homepage": "https://github.com/metricsmine/monolog-fuelphp-php"
+            "name": "Pablo Martinez",
+            "email": "info@metricsmine.com",
+            "homepage": "https://github.com/metricsmine/monolog-php"
         }
     ],
 
