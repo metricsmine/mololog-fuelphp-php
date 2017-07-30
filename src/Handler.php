@@ -1,6 +1,6 @@
 <?php
 
-namespace metricsmine\monolog-php;
+namespace Metricsmine;
 
 use \Monolog\Handler\AbstractProcessingHandler;
 use \Monolog\Logger;
