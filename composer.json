@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": "^5.6 | ^7.*",
+        "php": "^5.6 | ^7.",
         "monolog/monolog": "1.5.*",
         "metricsmine/client-php": "dev-master"
     },
